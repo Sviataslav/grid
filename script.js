@@ -1,0 +1,16 @@
+"use strict";
+alert("hi");
+let firstGroup = 22;
+let secondGroup = 13;
+let usersCount = firstGroup+secondGroup;
+let arr = [22, 34];
+let anotherUsers = (arr[0]+arr[1]);
+alert(anotherUsers);
+alert("Number of users "+usersCount);
+let bol = true;
+let user = null;
+let userName = "Pavel";
+alert("Your name "+userName);
+alert(`Your name ${userName}`);
+let age = prompt("Ваш возраст", "18");
+alert("Ваш возраст "+ age );
